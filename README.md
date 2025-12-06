@@ -3,7 +3,11 @@
 This project is a Food Management Dashboard built using React + Vite.  
 It enables administrators to manage food items, categories, and customer orders with a responsive and user-friendly interface.  
 The dashboard is designed for restaurants, food delivery platforms, and online ordering systems.  
+## Dashboard Screenshot
 
+![Dashboard Screenshot](https://github.com/Naveenkumar1667/Foodline-MernStack/blob/main/Screenshot%202025-12-06%20194430.png)
+---
+https://github.com/Naveenkumar1667/Foodline-MernStack/blob/main/Screenshot%202025-12-06%20194430.png
 **⚙️ Tech Stack**
 - ⚛️ Frontend:React (Vite for fast builds)  
 - 🎨 Styling: CSS  
