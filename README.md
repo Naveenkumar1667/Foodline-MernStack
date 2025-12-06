@@ -7,7 +7,7 @@ The dashboard is designed for restaurants, food delivery platforms, and online o
 
 ![Dashboard Screenshot](https://github.com/Naveenkumar1667/Foodline-MernStack/blob/main/Screenshot%202025-12-06%20194430.png)
 ---
-https://github.com/Naveenkumar1667/Foodline-MernStack/blob/main/Screenshot%202025-12-06%20194430.png
+
 **⚙️ Tech Stack**
 - ⚛️ Frontend:React (Vite for fast builds)  
 - 🎨 Styling: CSS  
