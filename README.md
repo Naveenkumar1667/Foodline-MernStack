@@ -41,7 +41,7 @@ The dashboard is designed for restaurants, food delivery platforms, and online o
 ✅ Handle customer orders (Approve / Reject)  
 ✅ Dashboard with responsive sidebar & navbar  
 
-**⚡ Backend  **
+**⚡ Backend**
 ✅ REST API for orders, food items, users  
 ✅ JWT authentication  
 ✅ MongoDB database integration  
