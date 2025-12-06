@@ -16,6 +16,7 @@ The dashboard is designed for restaurants, food delivery platforms, and online o
 - 🖼️ Assets:Custom icons for food, orders, and profile  
 
 **🚀 Features** 
+
 ✅ Admin Dashboard with Sidebar & Navbar  
 ✅ Add New Food Items with details & images  
 ✅ View & Manage Food Items (Edit/Delete options extendable)  
@@ -30,18 +31,21 @@ The dashboard is designed for restaurants, food delivery platforms, and online o
 - Orders Page → Handle customer orders  
 
 **👨‍🍳 Customer (Frontend)**
+
 ✅ Browse food items  
 ✅ Add to cart & checkout  
 ✅ Place orders  
 ✅ User authentication  
 
 **🛠️ Admin (Dashboard)**
+
 ✅ Manage food items (Add / Edit / Delete)  
 ✅ View all food items in a list  
 ✅ Handle customer orders (Approve / Reject)  
 ✅ Dashboard with responsive sidebar & navbar  
 
 **⚡ Backend**
+
 ✅ REST API for orders, food items, users  
 ✅ JWT authentication  
 ✅ MongoDB database integration  
